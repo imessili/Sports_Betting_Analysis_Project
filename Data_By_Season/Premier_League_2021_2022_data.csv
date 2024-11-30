@@ -1,0 +1,381 @@
+team1,team2,matchStartTime,team1score,team2score,homeodd,drawodd,awayodd,home_odd_win,draw_odd_win,away_odd_win,bookmakers_prediction
+Arsenal,Everton,17:00,5,1,1.35,5.57,9.16,1,0,0,1
+Brentford,Leeds,17:00,1,2,2.35,3.82,2.91,0,0,1,0
+Brighton,West Ham,17:00,3,1,2.67,3.48,2.71,1,0,0,1
+Burnley,Newcastle,17:00,1,2,2.48,3.32,3.05,0,0,1,0
+Chelsea,Watford,17:00,2,1,1.19,7.71,16.89,1,0,0,1
+Crystal Palace,Manchester Utd,17:00,1,0,2.83,3.54,2.53,1,0,0,0
+Leicester,Southampton,17:00,4,1,1.71,4.32,4.59,1,0,0,1
+Liverpool,Wolves,17:00,3,1,1.15,9.34,18.89,1,0,0,1
+Manchester City,Aston Villa,17:00,3,2,1.18,8.33,16.54,1,0,0,1
+Norwich,Tottenham,17:00,0,5,10.06,5.64,1.32,0,0,1,1
+Aston Villa,Burnley,21:00,1,1,2.03,3.51,3.93,0,1,0,0
+Chelsea,Leicester,21:00,1,1,1.43,4.99,7.65,0,1,0,0
+Everton,Crystal Palace,20:45,3,2,1.87,3.58,4.65,1,0,0,1
+Southampton,Liverpool,20:45,1,2,6.63,5.01,1.47,0,0,1,1
+Newcastle,Arsenal,21:00,2,0,4.33,3.89,1.83,1,0,0,0
+Everton,Brentford,17:30,2,3,1.93,3.57,4.27,0,0,1,0
+Aston Villa,Crystal Palace,15:00,1,1,1.9,3.56,4.43,0,1,0,0
+Leeds,Brighton,15:00,1,1,2.68,3.47,2.7,0,1,0,0
+Watford,Leicester,15:00,1,5,5.15,3.99,1.71,0,0,1,1
+West Ham,Manchester City,15:00,2,2,8.12,5.24,1.39,0,1,0,0
+Wolves,Norwich,15:00,1,1,1.54,4.5,6.24,0,1,0,0
+Tottenham,Burnley,13:00,1,0,1.32,5.62,10.42,1,0,0,1
+Tottenham,Arsenal,20:45,3,0,2.29,3.52,3.25,1,0,0,1
+Wolves,Manchester City,21:15,1,5,12.34,6.34,1.26,0,0,1,1
+Leicester,Norwich,20:45,3,0,1.34,5.6,9.36,1,0,0,1
+Watford,Everton,20:45,0,0,5.93,3.82,1.65,0,1,0,0
+Leeds,Chelsea,20:30,0,3,4.96,4.11,1.7,0,0,1,1
+Aston Villa,Liverpool,21:00,1,2,6.6,4.62,1.51,0,0,1,1
+Manchester City,Newcastle,17:30,5,0,1.17,8.03,17.56,1,0,0,1
+Arsenal,Leeds,15:00,2,1,1.53,4.58,6.21,1,0,0,1
+Leicester,Everton,15:00,1,2,2.69,3.3,2.78,0,0,1,0
+Norwich,West Ham,15:00,0,4,4.91,4.03,1.72,0,0,1,1
+Liverpool,Tottenham,20:45,1,1,1.43,5.19,7.21,0,1,0,0
+Brighton,Manchester Utd,18:30,4,0,3.06,3.38,2.47,1,0,0,0
+Brentford,Southampton,16:00,3,0,2.12,3.54,3.59,1,0,0,1
+Burnley,Aston Villa,16:00,1,3,3.13,3.19,2.51,0,0,1,1
+Chelsea,Wolves,16:00,2,2,1.37,4.96,9.69,0,1,0,0
+Crystal Palace,Watford,16:00,1,0,1.69,3.87,5.41,1,0,0,1
+Manchester Utd,Brentford,21:00,3,0,1.76,3.97,4.73,1,0,0,1
+West Ham,Arsenal,17:30,1,2,4.4,3.9,1.83,0,0,1,1
+Everton,Chelsea,15:00,1,0,5.26,3.93,1.71,1,0,0,0
+Tottenham,Leicester,15:00,3,1,1.37,5.34,8.95,1,0,0,1
+Leeds,Manchester City,18:30,0,4,9.48,5.84,1.33,0,0,1,1
+Aston Villa,Norwich,16:00,2,0,1.43,4.83,8.11,1,0,0,1
+Southampton,Crystal Palace,16:00,1,2,2.45,3.18,3.21,0,0,1,0
+Watford,Burnley,16:00,1,2,2.64,3.25,2.89,0,0,1,0
+Wolves,Brighton,16:00,0,3,2.77,3.02,2.96,0,0,1,0
+Newcastle,Liverpool,13:30,0,1,6.54,4.35,1.54,0,0,1,1
+Manchester Utd,Chelsea,20:45,1,1,3.54,3.67,2.1,0,1,0,0
+Crystal Palace,Leeds,21:00,0,0,2.41,3.46,3.03,0,1,0,0
+Liverpool,Everton,17:30,2,0,1.2,7.25,15.84,1,0,0,1
+Brighton,Southampton,15:00,2,2,2.09,3.41,3.85,0,1,0,0
+Burnley,Wolves,15:00,1,0,2.57,3.18,3.08,1,0,0,1
+Chelsea,West Ham,15:00,1,0,1.43,4.87,8.08,1,0,0,1
+Brentford,Tottenham,18:30,0,0,4.92,3.99,1.73,0,1,0,0
+Leicester,Aston Villa,16:00,0,0,3.0,3.37,2.48,0,1,0,0
+Manchester City,Watford,16:00,5,1,1.11,9.98,25.96,1,0,0,1
+Norwich,Newcastle,16:00,0,3,3.53,3.35,2.22,0,0,1,1
+Arsenal,Manchester Utd,13:30,3,1,2.06,3.65,3.7,1,0,0,1
+Burnley,Southampton,20:45,2,0,2.68,3.35,2.76,1,0,0,1
+Manchester City,Brighton,21:00,3,0,1.23,6.55,15.03,1,0,0,1
+Chelsea,Arsenal,20:45,2,4,1.92,3.52,4.41,0,0,1,0
+Everton,Leicester,20:45,1,1,2.59,3.33,2.9,0,1,0,0
+Newcastle,Crystal Palace,20:45,1,0,2.28,3.25,3.49,1,0,0,1
+Liverpool,Manchester Utd,21:00,4,0,1.34,5.67,8.98,1,0,0,1
+Newcastle,Leicester,15:15,2,1,2.09,3.51,3.71,1,0,0,1
+West Ham,Burnley,15:15,1,1,1.81,3.78,4.69,0,1,0,0
+Manchester Utd,Norwich,16:00,3,2,1.28,6.36,10.69,1,0,0,1
+Southampton,Arsenal,16:00,1,0,3.99,3.75,1.94,1,0,0,0
+Watford,Brentford,16:00,1,2,3.04,3.35,2.47,0,0,1,1
+Tottenham,Brighton,13:30,0,1,1.52,4.48,6.63,0,0,1,0
+Manchester City,Liverpool,17:30,2,2,1.99,3.76,3.8,0,1,0,0
+Brentford,West Ham,15:00,2,0,2.69,3.33,2.76,1,0,0,1
+Leicester,Crystal Palace,15:00,2,1,2.54,3.32,2.95,1,0,0,1
+Norwich,Burnley,15:00,2,0,3.14,3.4,2.38,1,0,0,0
+Aston Villa,Tottenham,18:30,0,4,3.39,3.49,2.22,0,0,1,1
+Arsenal,Brighton,16:00,1,2,1.65,3.76,6.15,0,0,1,0
+Southampton,Chelsea,16:00,0,6,3.97,3.62,2.0,0,0,1,1
+Watford,Leeds,16:00,0,3,2.82,3.42,2.6,0,0,1,1
+Everton,Manchester Utd,13:30,1,0,4.17,3.83,1.9,1,0,0,0
+Newcastle,Wolves,21:00,1,0,2.01,3.31,4.34,1,0,0,1
+Burnley,Everton,20:30,3,2,2.57,3.11,3.1,1,0,0,1
+Crystal Palace,Arsenal,21:00,3,0,4.18,3.4,2.0,1,0,0,0
+Tottenham,Newcastle,17:30,5,1,1.55,4.29,6.44,1,0,0,1
+West Ham,Everton,15:00,2,1,1.79,3.8,4.75,1,0,0,1
+Manchester Utd,Leicester,18:30,1,1,1.57,4.48,5.69,0,1,0,0
+Brighton,Norwich,16:00,0,0,1.49,4.31,7.7,0,1,0,0
+Burnley,Manchester City,16:00,0,2,16.6,6.97,1.21,0,0,1,1
+Chelsea,Brentford,16:00,1,4,1.4,4.74,9.29,0,0,1,0
+Leeds,Southampton,16:00,1,1,2.46,3.61,2.86,0,1,0,0
+Wolves,Aston Villa,16:00,2,1,3.08,3.09,2.6,1,0,0,0
+Liverpool,Watford,13:30,2,0,1.16,8.47,17.94,1,0,0,1
+Tottenham,West Ham,17:30,3,1,1.73,3.85,5.18,1,0,0,1
+Leicester,Brentford,15:00,2,1,2.15,3.42,3.6,1,0,0,1
+Aston Villa,Arsenal,13:30,0,1,3.01,3.43,2.46,0,0,1,1
+Wolves,Leeds,21:00,2,3,2.21,3.41,3.49,0,0,1,0
+Everton,Newcastle,20:45,1,0,2.44,3.26,3.19,1,0,0,1
+Arsenal,Liverpool,21:15,0,2,3.66,3.67,2.06,0,0,1,1
+Brighton,Tottenham,20:30,0,2,3.68,3.41,2.14,0,0,1,1
+Crystal Palace,Manchester City,21:00,0,0,10.14,5.5,1.33,0,1,0,0
+Arsenal,Leicester,17:30,2,0,1.44,4.89,7.53,1,0,0,1
+Chelsea,Newcastle,15:00,1,0,1.42,4.9,8.26,1,0,0,1
+Everton,Wolves,15:00,0,1,2.29,3.13,3.63,0,0,1,0
+Leeds,Norwich,15:00,2,1,1.64,4.2,5.47,1,0,0,1
+Southampton,Watford,15:00,1,2,1.67,4.12,5.28,0,0,1,0
+West Ham,Aston Villa,15:00,2,1,2.52,3.33,2.99,1,0,0,1
+Manchester Utd,Tottenham,18:30,3,2,2.32,3.55,3.13,1,0,0,1
+Brentford,Burnley,16:00,2,0,2.11,3.34,3.87,1,0,0,1
+Brighton,Liverpool,13:30,0,2,6.98,4.66,1.48,0,0,1,1
+Leeds,Aston Villa,20:45,0,3,2.87,3.59,2.47,0,0,1,1
+Norwich,Chelsea,20:30,1,3,9.91,4.99,1.37,0,0,1,1
+Southampton,Newcastle,20:30,1,2,1.99,3.57,4.02,0,0,1,0
+Wolves,Watford,20:30,4,0,1.93,3.46,4.47,1,0,0,1
+Tottenham,Everton,21:00,5,0,1.73,3.9,5.13,1,0,0,1
+Manchester City,Manchester Utd,17:30,4,1,1.42,5.03,7.8,1,0,0,1
+Watford,Arsenal,15:00,2,3,6.85,4.27,1.53,0,0,1,1
+Liverpool,West Ham,18:30,1,0,1.25,6.85,11.65,1,0,0,1
+Aston Villa,Southampton,16:00,4,0,2.24,3.55,3.28,1,0,0,1
+Burnley,Chelsea,16:00,0,4,7.58,4.04,1.52,0,0,1,1
+Newcastle,Brighton,16:00,2,1,2.67,3.14,2.91,1,0,0,1
+Norwich,Brentford,16:00,1,3,3.18,3.19,2.46,0,0,1,1
+Wolves,Crystal Palace,16:00,0,2,2.37,3.07,3.5,0,0,1,0
+Leicester,Leeds,13:30,1,0,2.04,3.77,3.68,1,0,0,1
+Burnley,Leicester,20:45,0,2,2.97,3.3,2.54,0,0,1,1
+West Ham,Wolves,15:00,1,0,1.94,3.37,4.57,1,0,0,1
+Everton,Manchester City,18:30,0,1,12.19,6.4,1.25,0,0,1,1
+Brighton,Aston Villa,16:30,0,2,2.23,3.27,3.51,0,0,1,0
+Brentford,Newcastle,16:00,0,2,2.4,3.11,3.41,0,0,1,0
+Crystal Palace,Burnley,16:00,1,1,1.91,3.34,4.81,0,1,0,0
+Manchester Utd,Watford,16:00,0,0,1.38,5.06,8.65,0,1,0,0
+Leeds,Tottenham,13:30,0,4,3.82,3.81,1.97,0,0,1,1
+Southampton,Norwich,21:00,2,0,1.5,4.51,6.79,1,0,0,1
+Arsenal,Wolves,20:45,2,1,1.67,3.73,5.97,1,0,0,1
+Liverpool,Leeds,20:45,6,0,1.18,8.22,15.43,1,0,0,1
+Burnley,Tottenham,20:30,1,0,4.72,3.63,1.83,1,0,0,0
+Watford,Crystal Palace,20:30,1,4,2.98,3.13,2.64,0,0,1,1
+Wolves,Leicester,17:30,2,1,2.23,3.29,3.62,1,0,0,1
+Leeds,Manchester Utd,15:00,2,4,4.83,4.13,1.71,0,0,1,1
+Manchester City,Tottenham,18:30,2,3,1.28,6.15,10.96,0,0,1,0
+Arsenal,Brentford,16:00,2,1,1.53,4.01,7.53,1,0,0,1
+Aston Villa,Watford,16:00,0,1,1.64,3.94,5.84,0,0,1,0
+Brighton,Burnley,16:00,0,3,1.63,3.76,6.4,0,0,1,0
+Crystal Palace,Chelsea,16:00,0,1,5.66,3.8,1.68,0,0,1,1
+Liverpool,Norwich,16:00,3,1,1.13,9.5,22.64,1,0,0,1
+Southampton,Everton,16:00,2,0,2.06,3.61,3.7,1,0,0,1
+West Ham,Newcastle,13:30,1,1,1.65,4.14,5.43,0,1,0,0
+Manchester Utd,Brighton,21:15,2,0,1.81,3.64,4.89,1,0,0,1
+Leicester,West Ham,17:30,2,2,2.92,3.51,2.46,0,1,0,0
+Burnley,Liverpool,15:00,0,1,13.25,6.92,1.22,0,0,1,1
+Newcastle,Aston Villa,15:00,1,0,2.8,3.39,2.61,1,0,0,0
+Tottenham,Wolves,15:00,0,2,1.69,3.73,5.74,0,0,1,0
+Norwich,Manchester City,18:30,0,4,16.34,7.43,1.2,0,0,1,1
+Brentford,Crystal Palace,16:00,0,0,2.98,3.12,2.66,0,1,0,0
+Everton,Leeds,16:00,3,0,2.52,3.62,2.78,1,0,0,1
+Watford,Brighton,16:00,0,2,3.84,3.33,2.12,0,0,1,1
+Manchester Utd,Southampton,13:30,1,1,1.56,4.52,5.9,0,1,0,0
+Liverpool,Leicester,20:45,2,0,1.21,7.58,13.61,1,0,0,1
+Wolves,Arsenal,20:45,0,1,3.78,3.23,2.2,0,0,1,1
+Aston Villa,Leeds,21:00,3,3,1.94,3.8,3.98,0,1,0,0
+Manchester City,Brentford,20:45,2,0,1.09,11.32,29.86,1,0,0,1
+Norwich,Crystal Palace,20:45,1,1,3.61,3.29,2.23,0,1,0,0
+Tottenham,Southampton,20:45,2,3,1.59,4.21,6.03,0,0,1,0
+Burnley,Manchester Utd,21:00,1,1,6.41,4.21,1.57,0,1,0,0
+Newcastle,Everton,20:45,3,1,2.53,3.4,2.9,1,0,0,1
+West Ham,Watford,20:45,1,0,1.54,4.33,6.57,1,0,0,1
+Burnley,Watford,19:00,0,0,2.2,3.27,3.65,0,1,0,0
+Chelsea,Tottenham,17:30,2,0,1.73,3.82,5.09,1,0,0,1
+Arsenal,Burnley,15:00,0,0,1.31,5.47,11.56,0,1,0,0
+Crystal Palace,Liverpool,15:00,1,3,5.8,4.16,1.59,0,0,1,1
+Leicester,Brighton,15:00,1,1,2.59,3.44,2.81,0,1,0,0
+Southampton,Manchester City,18:30,1,1,11.44,6.04,1.28,0,1,0,0
+Brentford,Wolves,16:00,1,2,2.48,3.1,3.26,0,0,1,0
+Leeds,Newcastle,16:00,0,1,1.89,3.97,3.95,0,0,1,0
+Manchester Utd,West Ham,16:00,1,0,2.09,3.63,3.59,1,0,0,1
+Everton,Aston Villa,13:30,0,1,2.77,3.48,2.61,0,0,1,1
+Watford,Norwich,21:00,0,3,2.05,3.52,3.82,0,0,1,0
+Brentford,Manchester Utd,21:00,1,3,4.64,3.74,1.82,0,0,1,1
+Leicester,Tottenham,20:30,2,3,3.24,3.48,2.27,0,0,1,1
+Brighton,Chelsea,21:00,1,1,5.41,3.72,1.71,0,1,0,0
+Liverpool,Brentford,15:00,3,0,1.27,6.28,11.77,1,0,0,1
+West Ham,Leeds,15:00,2,3,1.67,4.23,4.97,0,0,1,0
+Aston Villa,Manchester Utd,18:30,2,2,2.61,3.51,2.75,0,1,0,0
+Newcastle,Watford,16:00,1,1,1.84,3.75,4.43,0,1,0,0
+Norwich,Everton,16:00,2,1,3.49,3.34,2.23,1,0,0,0
+Wolves,Southampton,16:00,3,1,2.43,3.08,3.38,1,0,0,1
+Manchester City,Chelsea,13:30,1,0,1.63,4.26,5.36,1,0,0,1
+Brighton,Crystal Palace,21:00,1,1,2.03,3.42,4.01,0,1,0,0
+West Ham,Norwich,20:45,2,0,1.39,5.08,8.32,1,0,0,1
+Southampton,Brentford,20:45,4,1,2.17,3.32,3.69,1,0,0,1
+Manchester Utd,Wolves,18:30,0,1,1.68,3.79,5.77,0,0,1,0
+Chelsea,Liverpool,17:30,2,2,2.63,3.52,2.71,0,1,0,0
+Brentford,Aston Villa,15:00,2,1,2.92,3.23,2.61,1,0,0,0
+Everton,Brighton,15:00,2,3,2.88,3.12,2.73,0,0,1,1
+Leeds,Burnley,15:00,3,1,2.05,3.6,3.71,1,0,0,1
+Crystal Palace,West Ham,18:30,2,3,3.51,3.36,2.22,0,0,1,1
+Watford,Tottenham,16:00,0,1,5.73,4.11,1.62,0,0,1,1
+Arsenal,Manchester City,13:30,1,2,5.28,4.21,1.65,0,0,1,1
+Manchester Utd,Burnley,21:15,3,1,1.37,5.02,9.27,1,0,0,1
+Brentford,Manchester City,21:15,0,1,16.48,8.78,1.16,0,0,1,1
+Chelsea,Brighton,20:30,1,1,1.35,5.04,10.37,0,1,0,0
+Leicester,Liverpool,21:00,1,0,8.63,6.11,1.32,1,0,0,0
+Crystal Palace,Norwich,16:00,3,0,1.72,3.67,5.5,1,0,0,1
+Southampton,Tottenham,16:00,1,1,3.81,3.47,2.07,0,1,0,0
+Watford,West Ham,16:00,1,4,3.59,3.71,2.05,0,0,1,1
+Newcastle,Manchester Utd,21:00,1,1,6.66,4.73,1.49,0,1,0,0
+Brighton,Brentford,21:00,2,0,1.94,3.43,4.42,1,0,0,1
+Aston Villa,Chelsea,18:30,1,3,5.27,3.82,1.71,0,0,1,1
+Manchester City,Leicester,16:00,6,3,1.13,10.23,19.15,1,0,0,1
+Norwich,Arsenal,16:00,0,5,6.58,4.51,1.51,0,0,1,1
+Tottenham,Crystal Palace,16:00,3,0,1.71,3.81,5.24,1,0,0,1
+West Ham,Southampton,16:00,2,3,1.95,3.66,4.02,0,0,1,0
+Tottenham,Liverpool,17:30,2,2,5.01,4.19,1.68,0,1,0,0
+Newcastle,Manchester City,15:00,0,4,21.28,9.72,1.13,0,0,1,1
+Wolves,Chelsea,15:00,0,0,5.64,3.44,1.77,0,1,0,0
+Leeds,Arsenal,18:30,1,4,5.79,4.36,1.58,0,0,1,1
+Liverpool,Newcastle,21:00,3,1,1.11,10.54,24.53,1,0,0,1
+Chelsea,Everton,20:45,1,1,1.21,7.05,16.86,0,1,0,0
+Arsenal,West Ham,21:00,2,0,2.09,3.62,3.57,1,0,0,1
+Brighton,Wolves,20:30,0,1,2.08,3.16,4.26,0,0,1,0
+Crystal Palace,Southampton,20:30,2,2,2.09,3.42,3.82,0,1,0,0
+Manchester City,Leeds,21:00,7,0,1.15,9.21,18.3,1,0,0,1
+Norwich,Aston Villa,20:45,0,2,3.74,3.39,2.11,0,0,1,1
+Crystal Palace,Everton,17:30,3,1,2.23,3.21,3.61,1,0,0,1
+Burnley,West Ham,15:00,0,0,3.51,3.53,2.15,0,1,0,0
+Leicester,Newcastle,15:00,4,0,1.73,4.05,4.78,1,0,0,1
+Norwich,Manchester Utd,18:30,0,1,7.4,4.93,1.44,0,0,1,1
+Arsenal,Southampton,16:00,3,0,1.75,3.95,4.79,1,0,0,1
+Chelsea,Leeds,16:00,3,2,1.23,6.79,12.96,1,0,0,1
+Liverpool,Aston Villa,16:00,1,0,1.24,6.7,12.15,1,0,0,1
+Manchester City,Wolves,13:30,1,0,1.17,8.03,19.95,1,0,0,1
+Brentford,Watford,21:00,2,1,2.48,3.39,2.98,1,0,0,1
+Everton,Arsenal,21:00,2,1,3.55,3.48,2.17,1,0,0,0
+Aston Villa,Leicester,17:30,2,1,2.27,3.44,3.33,1,0,0,1
+Leeds,Brentford,15:00,2,2,1.85,3.54,4.76,0,1,0,0
+Manchester Utd,Crystal Palace,15:00,1,0,1.52,4.46,6.58,1,0,0,1
+Tottenham,Norwich,15:00,3,0,1.46,4.56,7.65,1,0,0,1
+Watford,Manchester City,18:30,1,3,13.83,7.19,1.21,0,0,1,1
+Newcastle,Burnley,16:00,1,0,2.35,3.47,3.12,1,0,0,1
+Southampton,Brighton,16:00,1,1,2.56,3.19,3.04,0,1,0,0
+Wolves,Liverpool,16:00,0,1,8.59,4.99,1.4,0,0,1,1
+West Ham,Chelsea,13:30,3,2,4.89,3.71,1.79,1,0,0,0
+Manchester Utd,Arsenal,21:15,3,2,2.07,3.68,3.59,1,0,0,1
+Tottenham,Brentford,20:30,2,0,1.65,3.99,5.59,1,0,0,1
+Aston Villa,Manchester City,21:15,1,2,7.52,4.65,1.46,0,0,1,1
+Everton,Liverpool,21:15,1,4,8.68,5.19,1.37,0,0,1,1
+Southampton,Leicester,20:30,2,2,2.36,3.5,3.08,0,1,0,0
+Watford,Chelsea,20:30,1,2,10.31,5.44,1.32,0,0,1,1
+West Ham,Brighton,20:30,1,1,1.99,3.44,4.18,0,1,0,0
+Wolves,Burnley,20:30,0,0,1.95,3.38,4.43,0,1,0,0
+Leeds,Crystal Palace,21:15,1,0,2.27,3.37,3.35,1,0,0,1
+Newcastle,Norwich,20:30,1,1,2.08,3.54,3.72,0,1,0,0
+Chelsea,Manchester Utd,17:30,1,1,1.56,4.21,6.51,0,1,0,0
+Brentford,Everton,15:00,1,0,2.24,3.26,3.55,1,0,0,1
+Leicester,Watford,15:00,4,2,1.7,3.92,5.21,1,0,0,1
+Manchester City,West Ham,15:00,2,1,1.27,6.38,11.08,1,0,0,1
+Brighton,Leeds,18:30,0,0,2.19,3.37,3.53,0,1,0,0
+Crystal Palace,Aston Villa,16:00,1,2,2.31,3.29,3.33,0,0,1,0
+Liverpool,Southampton,16:00,4,0,1.25,6.5,12.08,1,0,0,1
+Norwich,Wolves,16:00,0,0,3.65,3.35,2.17,0,1,0,0
+Arsenal,Newcastle,13:30,2,0,1.52,4.57,6.45,1,0,0,1
+Tottenham,Leeds,17:30,2,1,1.61,4.08,5.93,1,0,0,1
+Manchester City,Everton,15:00,3,0,1.21,7.08,15.43,1,0,0,1
+Liverpool,Arsenal,18:30,4,0,1.51,4.79,6.12,1,0,0,1
+Aston Villa,Brighton,16:00,2,0,2.46,3.31,3.07,1,0,0,1
+Burnley,Crystal Palace,16:00,3,3,2.85,3.22,2.7,0,1,0,0
+Newcastle,Brentford,16:00,3,3,2.47,3.45,2.95,0,1,0,0
+Norwich,Southampton,16:00,2,1,3.59,3.48,2.14,1,0,0,0
+Watford,Manchester Utd,16:00,4,1,6.53,4.66,1.5,1,0,0,0
+Wolves,West Ham,16:00,1,0,3.19,3.28,2.41,1,0,0,0
+Leicester,Chelsea,13:30,0,3,5.0,3.77,1.76,0,0,1,1
+West Ham,Liverpool,17:30,3,2,4.51,4.24,1.74,1,0,0,0
+Arsenal,Watford,15:00,1,0,1.45,4.83,7.48,1,0,0,1
+Everton,Tottenham,15:00,0,0,3.48,3.33,2.26,0,1,0,0
+Leeds,Leicester,15:00,1,1,2.69,3.51,2.66,0,1,0,0
+Brighton,Newcastle,18:30,1,1,1.59,4.21,6.12,0,1,0,0
+Brentford,Norwich,16:00,1,2,1.64,4.05,5.67,0,0,1,0
+Chelsea,Burnley,16:00,1,1,1.27,5.93,13.02,0,1,0,0
+Crystal Palace,Wolves,16:00,2,0,2.36,3.13,3.48,1,0,0,1
+Manchester Utd,Manchester City,13:30,0,2,4.7,4.2,1.72,0,0,1,1
+Southampton,Aston Villa,21:00,1,0,2.08,3.66,3.62,1,0,0,1
+Wolves,Everton,21:00,2,1,2.23,3.25,3.6,1,0,0,1
+Aston Villa,West Ham,17:30,1,4,3.01,3.53,2.39,0,0,1,1
+Norwich,Leeds,15:00,1,2,3.65,3.7,2.03,0,0,1,1
+Tottenham,Manchester Utd,18:30,0,3,3.14,3.65,2.26,0,0,1,1
+Burnley,Brentford,16:00,3,1,2.65,3.19,2.91,1,0,0,1
+Liverpool,Brighton,16:00,2,2,1.27,6.14,11.19,0,1,0,0
+Manchester City,Crystal Palace,16:00,0,2,1.14,8.92,19.83,0,0,1,0
+Newcastle,Chelsea,16:00,0,3,8.1,4.59,1.44,0,0,1,1
+Watford,Southampton,16:00,0,1,3.32,3.47,2.25,0,0,1,1
+Leicester,Arsenal,13:30,0,2,2.56,3.5,2.78,0,0,1,0
+Manchester Utd,Liverpool,17:30,0,5,2.92,3.68,2.4,0,0,1,1
+Brentford,Leicester,15:00,1,2,2.86,3.43,2.56,0,0,1,1
+West Ham,Tottenham,15:00,1,0,2.31,3.54,3.14,1,0,0,1
+Brighton,Manchester City,18:30,1,4,8.15,4.85,1.42,0,0,1,1
+Crystal Palace,Newcastle,16:00,1,1,1.93,3.61,4.2,0,1,0,0
+Everton,Watford,16:00,2,5,1.74,3.81,5.13,0,0,1,0
+Leeds,Wolves,16:00,1,1,2.42,3.47,3.04,0,1,0,0
+Southampton,Burnley,16:00,2,2,1.96,3.64,4.0,0,1,0,0
+Chelsea,Norwich,13:30,7,0,1.2,7.16,17.87,1,0,0,1
+Arsenal,Aston Villa,21:00,3,1,1.95,3.7,4.05,1,0,0,1
+Arsenal,Crystal Palace,21:00,2,2,1.62,4.02,5.98,0,1,0,0
+Newcastle,Tottenham,17:30,2,3,3.6,3.65,2.07,0,0,1,1
+Everton,West Ham,15:00,0,1,2.77,3.31,2.71,0,0,1,1
+Brentford,Chelsea,18:30,0,1,5.94,3.86,1.65,0,0,1,1
+Aston Villa,Wolves,16:00,2,3,2.16,3.25,3.82,0,0,1,0
+Leicester,Manchester Utd,16:00,4,2,3.68,3.8,2.0,1,0,0,0
+Manchester City,Burnley,16:00,2,0,1.14,9.22,21.27,1,0,0,1
+Norwich,Brighton,16:00,0,0,3.99,3.5,2.01,0,1,0,0
+Southampton,Leeds,16:00,1,0,2.19,3.61,3.34,1,0,0,1
+Watford,Liverpool,13:30,0,5,8.99,5.59,1.34,0,0,1,1
+Liverpool,Manchester City,17:30,2,2,3.02,3.63,2.34,0,1,0,0
+Crystal Palace,Leicester,15:00,2,2,2.85,3.29,2.64,0,1,0,0
+Tottenham,Aston Villa,15:00,2,1,2.11,3.43,3.73,1,0,0,1
+West Ham,Brentford,15:00,1,2,1.78,3.74,4.86,0,0,1,0
+Brighton,Arsenal,18:30,0,0,3.28,3.3,2.36,0,1,0,0
+Burnley,Norwich,16:00,0,0,1.95,3.61,4.06,0,1,0,0
+Chelsea,Southampton,16:00,3,1,1.42,4.8,8.31,1,0,0,1
+Leeds,Watford,16:00,1,0,1.76,3.94,4.69,1,0,0,1
+Wolves,Newcastle,16:00,2,1,1.75,3.81,4.96,1,0,0,1
+Manchester Utd,Everton,13:30,1,1,1.53,4.27,6.88,0,1,0,0
+Crystal Palace,Brighton,21:00,1,1,2.92,3.1,2.7,0,1,0,0
+Arsenal,Tottenham,17:30,3,1,2.22,3.4,3.45,1,0,0,1
+Southampton,Wolves,15:00,0,1,2.2,3.32,3.58,0,0,1,0
+Brentford,Liverpool,18:30,3,3,7.73,4.96,1.42,0,1,0,0
+Everton,Norwich,16:00,2,0,1.7,3.76,5.58,1,0,0,1
+Leeds,West Ham,16:00,1,2,3.02,3.61,2.34,0,0,1,1
+Leicester,Burnley,16:00,2,2,1.67,3.88,5.52,0,1,0,0
+Watford,Newcastle,16:00,1,1,2.14,3.52,3.55,0,1,0,0
+Chelsea,Manchester City,13:30,0,1,2.91,3.2,2.65,0,0,1,1
+Manchester Utd,Aston Villa,13:30,0,1,1.4,5.02,8.11,0,0,1,0
+Tottenham,Chelsea,17:30,0,3,4.41,3.45,1.93,0,0,1,1
+Brighton,Leicester,15:00,2,1,2.53,3.21,3.05,1,0,0,1
+West Ham,Manchester Utd,15:00,1,2,4.41,3.81,1.83,0,0,1,1
+Aston Villa,Everton,18:30,3,0,2.19,3.39,3.51,1,0,0,1
+Burnley,Arsenal,16:00,0,1,3.84,3.66,2.0,0,0,1,1
+Liverpool,Crystal Palace,16:00,3,0,1.28,6.14,11.52,1,0,0,1
+Manchester City,Southampton,16:00,0,0,1.17,8.14,17.0,0,1,0,0
+Norwich,Watford,16:00,1,3,2.29,3.33,3.38,0,0,1,0
+Wolves,Brentford,13:30,0,2,1.83,3.35,5.2,0,0,1,0
+Newcastle,Leeds,21:00,1,1,3.14,3.68,2.25,0,1,0,0
+Everton,Burnley,21:00,3,1,1.76,3.56,5.4,1,0,0,1
+Leeds,Liverpool,17:30,0,3,4.87,4.36,1.67,0,0,1,1
+Chelsea,Aston Villa,18:30,3,0,1.34,5.26,9.93,1,0,0,1
+Arsenal,Norwich,16:00,1,0,1.42,4.95,7.76,1,0,0,1
+Brentford,Brighton,16:00,0,1,3.03,3.06,2.66,0,0,1,1
+Leicester,Manchester City,16:00,0,1,5.67,4.1,1.63,0,0,1,1
+Manchester Utd,Newcastle,16:00,4,1,1.19,7.47,16.1,1,0,0,1
+Southampton,West Ham,16:00,0,0,3.09,3.54,2.34,0,1,0,0
+Watford,Wolves,16:00,0,2,3.63,3.2,2.24,0,0,1,1
+Crystal Palace,Tottenham,13:30,3,0,4.04,3.36,2.05,1,0,0,0
+Wolves,Manchester Utd,17:30,0,1,4.94,3.74,1.77,0,0,1,1
+Burnley,Leeds,15:00,1,1,3.32,3.56,2.22,0,1,0,0
+Tottenham,Watford,15:00,1,0,1.46,4.47,8.15,1,0,0,1
+Liverpool,Chelsea,18:30,1,1,2.43,3.39,3.06,0,1,0,0
+Aston Villa,Brentford,16:00,1,1,2.08,3.33,3.97,0,1,0,0
+Brighton,Everton,16:00,0,2,2.32,3.25,3.38,0,0,1,0
+Newcastle,Southampton,16:00,2,2,2.45,3.57,2.9,0,1,0,0
+Norwich,Leicester,16:00,1,2,4.25,3.65,1.9,0,0,1,1
+West Ham,Crystal Palace,16:00,2,2,1.56,4.11,6.62,0,1,0,0
+Manchester City,Arsenal,13:30,5,0,1.34,5.31,10.09,1,0,0,1
+West Ham,Leicester,21:00,4,1,2.46,3.51,2.92,1,0,0,1
+Arsenal,Chelsea,17:30,0,2,4.64,3.54,1.86,0,0,1,1
+Southampton,Manchester Utd,15:00,1,1,5.45,4.25,1.63,0,1,0,0
+Wolves,Tottenham,15:00,0,1,2.95,3.1,2.69,0,0,1,1
+Brighton,Watford,18:30,2,0,1.74,3.6,5.54,1,0,0,1
+Aston Villa,Newcastle,16:00,2,0,1.83,3.91,4.32,1,0,0,1
+Crystal Palace,Brentford,16:00,0,0,2.67,3.18,2.91,0,1,0,0
+Leeds,Everton,16:00,2,2,2.13,3.51,3.6,0,1,0,0
+Manchester City,Norwich,16:00,5,0,1.12,10.03,23.97,1,0,0,1
+Liverpool,Burnley,13:30,2,0,1.25,6.48,12.24,1,0,0,1
+Tottenham,Manchester City,17:30,1,0,5.98,4.13,1.6,1,0,0,0
+Newcastle,West Ham,15:00,2,4,3.39,3.51,2.2,0,0,1,1
+Norwich,Liverpool,18:30,0,3,6.96,5.0,1.45,0,0,1,1
+Burnley,Brighton,16:00,1,2,3.22,3.12,2.47,0,0,1,1
+Chelsea,Crystal Palace,16:00,3,0,1.32,5.37,11.02,1,0,0,1
+Everton,Southampton,16:00,3,1,2.04,3.41,3.97,1,0,0,1
+Leicester,Wolves,16:00,1,0,1.73,3.8,5.13,1,0,0,1
+Watford,Aston Villa,16:00,3,2,3.52,3.33,2.21,1,0,0,0
+Manchester Utd,Leeds,13:30,5,1,1.62,4.26,5.44,1,0,0,1
+Brentford,Arsenal,21:00,2,0,3.98,3.3,2.08,1,0,0,0
